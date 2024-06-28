@@ -29,8 +29,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=GT7x_icons=true&theme=chartreuse-chartreuse-dark)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GT7x)](https://github.com/anuraghazra/github-readme-stats)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=GT&x&show_icons=true&theme=chartreuse-dark)
 
 <!-- Portfolio -->
 ## Portfolio:
