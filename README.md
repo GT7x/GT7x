@@ -41,9 +41,9 @@
 
 <!-- GIF -->
 <p align="left">
-  <a href="(https://github.com/GT7x/GT7x/assets/173713491/1bc8c237-0595-4dd7-9f94-f9f78965a50b)
-">Veja o GIF aqui</a>
+  <img align="center" src="https://media.tenor.com/kR4JM40xWA4AAAAM/8bit-bedroom" alt="Imagem">
 </p>
+
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
