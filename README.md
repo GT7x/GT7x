@@ -30,7 +30,7 @@
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=GT7x_icons=true&theme=chartreuse-dark)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GT7x)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Portfolio -->
 ## Portfolio:
