@@ -29,7 +29,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=GT7x&x&show_icons=true&theme=chartreuse-dark)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=GT7x&x&show_icons=true&theme=dark)
 
 <!-- Portfolio -->
 ## Portfolio:
