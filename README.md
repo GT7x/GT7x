@@ -41,7 +41,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://media.tenor.com/kR4JM40xWA4AAAAM/8bit-bedroom" alt="Imagem" style="width: 200px;">
+  <img align="center" src="https://media.tenor.com/kR4JM40xWA4AAAAM/8bit-bedroom" alt="Imagem">
 </p>
 
 
