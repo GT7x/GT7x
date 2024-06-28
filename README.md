@@ -40,9 +40,8 @@
 - [Client Registry System](https://github.com/VariableBee/Cartorio)
 
 <!-- GIF -->
-<p align="left">
-  <img align="center" src="https://media.tenor.com/kR4JM40xWA4AAAAM/8bit-bedroom" alt="Imagem">
-</p>
+
+![Pixel Art Game Backgrounds and Animated Wallpapers](https://preview.redd.it/for-hire-pixel-art-game-backgrounds-and-animated-wallpapers-v0-eaa2st2os1m91.gif?width=640&crop=smart&auto=webp&s=863ffb2cb0191c87347dcd0f041290bf22bac914)
 
 
 
