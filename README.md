@@ -41,7 +41,8 @@
 
 <!-- GIF -->
 <p align="left">
-  <a href="https://media.tenor.com/CEczQHKbh4gAAAAM/pauwex-cozy.gif">Veja o GIF aqui</a>
+  <a href="(https://github.com/GT7x/GT7x/assets/173713491/1bc8c237-0595-4dd7-9f94-f9f78965a50b)
+">Veja o GIF aqui</a>
 </p>
 
 ## 🔥 Skills
