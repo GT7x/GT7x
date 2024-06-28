@@ -41,7 +41,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <a href="https://giphy.com/clips/neon-window-curtain-chMmtwzdjowlM3fKZq">Veja o GIF aqui</a>
+  <a href="https://media.tenor.com/CEczQHKbh4gAAAAM/pauwex-cozy.gif">Veja o GIF aqui</a>
 </p>
 
 ## 🔥 Skills
