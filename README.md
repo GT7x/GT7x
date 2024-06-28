@@ -41,7 +41,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <a href="https://giphy.com/clips/neon-window-curtain-chMmtwzdjowlM3fKZq">Veja o GIF aqui</a>
 </p>
 
 ## 🔥 Skills
