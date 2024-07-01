@@ -6,11 +6,11 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Chris! A passionate Data Science student from Brazil.
+  Hello 👋, I'm GT! A passionate Data Science student from Brazil.
 
-  - 🌱 I’m currently studying Data Science and Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
-
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+  - 🌙 Currently, I'm studying Data Science and Computer Science at ScK, Psycho.
+    
+  - 🔭🔍 I'm actively seeking my first job opportunity. My ultimate goal is to work in AI and Machine Learning someday.
 </p>
 
 <!-- Dropdown -->
